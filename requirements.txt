@@ -1,4 +1,9 @@
-python-dateutil==2.8.2
-requests==2.27.1
-python-dotenv==0.19.2
-discord.py
+python-dateutil
+requests
+python-dotenv
+Flask
+loguru
+uvicorn
+uvloop
+aiocron
+pytz

@@ -1,0 +1,8 @@
+#!/bin/bash
+if [ -d "$VIRTUAL_ENV" ]; then
+    rm -rf $VIRTUAL_ENV
+fi
+
+python3 -m venv $VIRTUAL_ENV && \
+$PIP_INSTALL pip setuptools wheel && \
+$PIP_INSTALL -r requirements.txt
