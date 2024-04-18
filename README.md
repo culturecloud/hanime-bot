@@ -62,10 +62,6 @@ I do not take any responsibility for this tool usage in the malicious purposes. 
 Any requests by Hanime.tv to take this down will be followed. <br>
 The original creator of this script (the core of this repository) has not provided a license for his repository so any requests by him to take this down will be followed.
 
-## I have a personal request
-Sure you can contact me here: <br>
-mail@zip6como.net
-
 ## Contributing
 Fork this repositorum and make a pull request. <br>
 If your pull request gets accepted you get a spot down below. <br>
