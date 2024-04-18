@@ -1,3 +1,5 @@
+# This project is poorly written. If anyone wants me to rewrite it, open an issue. This version still works; it's just bad code.
+
 # Hanime auto coin collector +
 The hanime mobile app gives coins as a reward for clicking on an ad. This has a cooldown of 3 hours. It gets really annoying to open the app every 3 hours and then click on an ad. You can use these coins to get a month of premium, but you can do this as often as you want.
 
